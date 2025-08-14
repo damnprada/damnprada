@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Jayakumar, currently pursuing my B.tech in Mechanical Engineering, from Delhi Technical University(DTU). I am also interested in coding!
 - 🌱 I’m currently learning Web Dev!
-- 📫 How to reach me: Instagram: ad.ityaa7 ; LinkedIn: Aditya JK 
+- 📫 How to reach me LinkedIn: Aditya Jayakumar 
 - 😄 Pronouns: he/him
 
 <!---
